@@ -62,7 +62,7 @@ Built a research-focused fraud-detection workflow using **5 million transactions
 
 Created a retail analytics lakehouse featuring incremental `MERGE` transformations, tested dimensional marts, and documented lineage. Built a **four-page Power BI dashboard** for sales, product, customer, and fulfilment metrics.
 
-*Repository link to be added.*
+**[Explore the project →](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
 
 ### ⚡ Energy Subscription Analytics
 **Portfolio project · November 2026 · Synthetic data**
@@ -71,7 +71,7 @@ Created a retail analytics lakehouse featuring incremental `MERGE` transformatio
 
 Modeled energy subscriptions with explicit table grains and documented business metrics, including active contracts and recognized revenue. Implemented **123 data tests and four unit tests**, with a Metabase dashboard built on curated marts.
 
-*Repository link to be added.*
+**[Explore the project →](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
 
 ### 🐝 [Swarm Planner — Multi-Agent Calendar Scheduling](https://github.com/IshmitaBasu/Swarm-Planner-Agent)
 **Team project · November 2025 – April 2026**
