@@ -55,7 +55,7 @@ Built a research-focused fraud-detection workflow using **5 million transactions
 
 **[Explore code, experiments, and documentation →](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)**
 
-### 🧱 Retail Sales & Operations Analytics Lakehouse
+### 🧱 [Retail Sales & Operations Analytics Lakehouse](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
 **Portfolio project · November 2026 · Synthetic data**
 
 `dbt Core` `Databricks SQL` `Delta Lake` `Python` `Power BI`
@@ -64,7 +64,7 @@ Created a retail analytics lakehouse featuring incremental `MERGE` transformatio
 
 **[Explore the project →](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)**
 
-### ⚡ Energy Subscription Analytics
+### ⚡ [Energy Subscription Analytics](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
 **Portfolio project · November 2026 · Synthetic data**
 
 `dbt Core` `BigQuery` `MetricFlow` `SQL` `Docker` `Metabase`
