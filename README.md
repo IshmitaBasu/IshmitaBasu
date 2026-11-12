@@ -1,18 +1,18 @@
-<!-- GitHub profile README for github.com/IshmitaBasu -->
+<!-- GitHub profile README for https://github.com/IshmitaBasu -->
 
 <div align="center">
 
 # Hi, I'm Ishmita Basu 👋
 
-### Data Analyst · Business Intelligence · Applied Data Science
+### Data Analyst · Business Intelligence · SQL & Data Modelling
 
-**I enjoy turning difficult data problems into reliable analytics, useful dashboards, and reproducible ML workflows.**
+**I turn messy data into reliable reports, useful business insights, and well-tested analytics workflows.**
 
-📍 Germany &nbsp;·&nbsp; 🎓 M.Sc. Data and Knowledge Engineering, Otto von Guericke University Magdeburg
+📍 Magdeburg, Germany &nbsp;·&nbsp; 🎓 M.Sc. Data and Knowledge Engineering, Otto von Guericke University Magdeburg (expected February 2027)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-16745E?style=flat-square&logo=githubpages&logoColor=white)](https://ishmitabasu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmita-basu/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishmita.basu98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-IshmitaBasu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IshmitaBasu)
 
 </div>
 
@@ -20,127 +20,130 @@
 
 ## About me
 
-I'm a data professional with **five years of experience** across client-facing business intelligence, analytics engineering, and market analytics. My work spans **Power BI reporting, SQL and Python data transformations, Databricks workflows, and applied machine learning**.
+I'm a data professional with **three years of full-time BI experience at Polestar Solutions** and **nearly two years of working-student experience in market analytics at Uniper Global Commodities**. I enjoy owning a problem from the first stakeholder conversation through SQL modelling, dashboard development, validation, and handover.
 
-I currently work with energy-market data at **Uniper Global Commodities**, where I improve analytical models, data quality reporting, and LNG-related dashboards. Before that, I delivered end-to-end BI solutions at **Polestar Solutions**, working with stakeholders from requirements to testing and handover.
+At **Uniper**, I work on LNG and gas-storage analytics, Power BI reporting, and Databricks SQL solutions. Previously, at **Polestar**, I delivered client-facing BI solutions, coordinated a project team of **5–8 developers**, and mentored **eight new hires** in Power BI and SQL.
 
-Alongside my professional work, I'm developing a master's thesis around **reproducible MLOps for financial fraud detection**. I care as much about validation, documentation, and maintainability as I do about model accuracy.
+I'm also completing an M.Sc. in Data and Knowledge Engineering, where I work on **dbt/data engineering projects and research-oriented machine learning**, including an MLOps thesis on financial fraud detection. I'm interested in **full-time Data Analyst and Business Intelligence opportunities** where I can combine technical work with business understanding.
 
-> My approach: understand the business question, make the data trustworthy, build something useful, and document how it works.
+### A few results I'm proud of
+
+- **60% faster** — proposed and independently rebuilt a quality dashboard using Databricks SQL, multi-stage CTEs, ranking logic, and conditional formatting at Uniper.
+- **200+ Power BI reports** — owned delivery from requirements through UAT and handover for a major client at Polestar.
+- **20% faster SQL queries** — improved reporting performance by revising schemas and fact/dimension models at Polestar.
+- **35% less manual documentation effort** — created AI agent configuration files to structure Power BI dashboard information for SharePoint at Uniper.
+
+> My approach: understand the business question, validate the data, build something people can use, and make it maintainable.
 
 ## What I work with
 
 | Area | Tools & methods |
 | --- | --- |
-| **Analytics & BI** | Power BI, DAX, Power Query, KPI design, dashboards, stakeholder reporting |
-| **Data engineering** | Python, SQL, T-SQL, Pandas, PySpark, Databricks SQL, Snowflake, REST APIs |
-| **Analytics engineering** | dbt Core, dimensional modeling, Delta Lake, BigQuery, data testing, lineage |
-| **Machine learning** | scikit-learn, LightGBM, feature engineering, time-series forecasting, ML evaluation |
-| **MLOps & delivery** | MLflow, Feast, FastAPI, Docker, Git/GitHub, automated testing, model monitoring |
-| **Speech & agent systems** | Whisper, LoRA, WER evaluation, multi-agent SLMs, Tree-of-Thought reasoning |
+| **Analytics & BI** | Power BI, DAX, Power Query, KPI reporting, interactive dashboards, stakeholder communication |
+| **SQL & data processing** | SQL, T-SQL, Python, Pandas, NumPy, PySpark, REST APIs, SQL CTEs |
+| **Warehousing & analytics engineering** | Databricks SQL, Snowflake, BigQuery, dbt Core, Delta Lake, dimensional modelling, data tests, lineage |
+| **Data platforms** | Microsoft SQL Server, Azure Data Factory, Git, GitHub, Docker |
+| **Statistics & forecasting** | Exploratory analysis, ARIMA, regression, data quality checks |
+| **ML & MLOps (academic projects)** | scikit-learn, LightGBM, MLflow, Feast, FastAPI, feature engineering, evaluation |
+| **AI research projects** | Whisper, LoRA, Word Error Rate, multi-agent SLMs, Tree-of-Thought, Ant Colony Optimization |
 
 ## Featured projects
 
 ### 🛡️ [Financial Fraud Detection — Reproducible MLOps Pipeline](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)
-**Master's thesis · 2026 · In progress**
+**Master's thesis · 2026 · In progress**  
+`Python` `scikit-learn` `LightGBM` `MLflow` `Feast` `FastAPI` `SQLite` `Docker`
 
-`Python` `LightGBM` `scikit-learn` `MLflow` `Feast` `FastAPI` `SQLite` `Docker`
+Built a research-oriented fraud-detection workflow using **5 million transactions**, leakage-aware preprocessing, batch ingestion, versioned Feast features, and tracked model experiments in MLflow.
 
-Built a research-focused fraud-detection workflow using **5 million transactions**, with leakage-aware data preparation, versioned features, controlled model comparisons, and experiment tracking.
+- Engineered sender-location history features that improved **validation Average Precision by 5.69% relative to the control** in a controlled comparison.
+- Verified **research-only** API serving and batch-monitoring checks.
+- Treat this as an experimental MLOps system, **not a production-ready fraud detector**; validation gains should not be confused with held-out test performance.
 
-- Developed sender-location history features that increased **validation Average Precision by 5.69% relative to the control** in a controlled experiment.
-- Set up Feast feature contracts, MLflow tracking, a registered **research-only** model, and locally verified FastAPI inference.
-- Added batch-ingestion, testing, and monitoring checks to support reproducibility and investigation.
-- Documented model limitations: the final held-out test results were weak, so this is **not presented as a production-ready fraud detector**.
-
-**[Explore code, experiments, and documentation →](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)**
+[Explore project →](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)
 
 ### 🧱 [Retail Sales & Operations Analytics Lakehouse](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
-**Portfolio project · November 2026 · Synthetic data**
+**Portfolio project · November 2026 · Synthetic data**  
+`dbt Core` `Databricks SQL` `Delta Lake` `SQL` `Python` `Power BI`
 
-`dbt Core` `Databricks SQL` `Delta Lake` `Python` `Power BI`
+Developed a dbt/Databricks lakehouse with incremental `MERGE` processing, tested fact and dimension marts, and documented lineage. Delivered a **four-page Power BI dashboard** covering sales, products, customers, and fulfilment.
 
-Created a retail analytics lakehouse featuring incremental `MERGE` transformations, tested dimensional marts, and documented lineage. Built a **four-page Power BI dashboard** for sales, product, customer, and fulfilment metrics.
+[Explore project →](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
 
-**[Explore the project →](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)**
+### ⚡ [Energy Subscription Analytics — dbt + BigQuery](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
+**Portfolio project · November 2026 · Synthetic data**  
+`dbt Core` `BigQuery` `SQL` `MetricFlow` `Docker` `Metabase`
 
-### ⚡ [Energy Subscription Analytics](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
-**Portfolio project · November 2026 · Synthetic data**
+Defined dimensional grains and revenue/contract metrics for energy-subscription reporting. Added **123 data tests and four unit tests**, documented MetricFlow metrics, and built a Metabase dashboard on curated marts.
 
-`dbt Core` `BigQuery` `MetricFlow` `SQL` `Docker` `Metabase`
+[Explore project →](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
 
-Modeled energy subscriptions with explicit table grains and documented business metrics, including active contracts and recognized revenue. Implemented **123 data tests and four unit tests**, with a Metabase dashboard built on curated marts.
+### 🐝 [Swarm SLM Agents — Calendar Planning](https://github.com/IshmitaBasu/Swarm-Planner-Agent)
+**Team project · November 2025 – April 2026**  
+`Multi-agent SLMs` `Tree-of-Thought` `Ant Colony Optimization` `Evaluation`
 
-**[Explore the project →](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)**
+Co-developed a decentralised scheduling approach combining a five-stage Tree-of-Thought process with ACO-inspired branch selection. Across **400 NaturalPlanner tasks**, the exact-match solve rate increased from **24.75% to 40.0%**; the Tree-of-Thought variant without ACO achieved **39.5%**.
 
-### 🐝 [Swarm Planner — Multi-Agent Calendar Scheduling](https://github.com/IshmitaBasu/Swarm-Planner-Agent)
-**Team project · November 2025 – April 2026**
-
-`Small Language Models` `Multi-Agent Systems` `Tree-of-Thought` `Ant Colony Optimization`
-
-Co-developed a constraint-aware, decentralized calendar-planning framework evaluated on **400 NaturalPlanner tasks**. Increased exact-match solve rate from **24.75% (single-model baseline) to 40.0%** with the combined approach.
-
-**[Explore the project →](https://github.com/IshmitaBasu/Swarm-Planner-Agent)**
+[Explore project →](https://github.com/IshmitaBasu/Swarm-Planner-Agent)
 
 ### 🎙️ [Multilingual Speech Recognition — Whisper Fine-Tuning](https://github.com/IshmitaBasu/whisper-fine-tune-low-resource-language)
-**Academic project · March–May 2025**
-
+**Academic project · March – May 2025**  
 `Python` `Whisper` `LoRA` `WER Evaluation`
 
-Fine-tuned Whisper for **Bengali and Telugu**, compared Word Error Rate before and after adaptation, and explored robustness under background noise. Also investigated speaker diarization.
+Fine-tuned Whisper for **Bengali and Telugu** using LoRA, compared Word Error Rate before and after adaptation, and studied performance under background noise while exploring speaker diarisation.
 
-**[Explore the project →](https://github.com/IshmitaBasu/whisper-fine-tune-low-resource-language)**
+[Explore project →](https://github.com/IshmitaBasu/whisper-fine-tune-low-resource-language)
 
 <details>
-<summary><b>More analytics and software projects</b></summary>
+<summary><b>More projects</b></summary>
 
 <br>
 
+- **Bundestag-MINE — Personalized Speech Recommendations (2024–2025):** Built React/TypeScript interfaces, integrated recommendation outputs, wrote tests, and fixed user-facing defects in a parliamentary-speech research prototype.
+- **Physician vs. AI Assessment Study (2024):** Analysed structured questionnaire responses using descriptive statistics and Power BI to visualise assessment differences.
 - **[Power BI Data Visualization](https://github.com/IshmitaBasu/PowerBI-Project):** Sample-data reporting and visual analytics.
-- **Bundestag-MINE — Personalized Speech Recommendations:** React/TypeScript UI integration and testing for a parliamentary-speech recommendation platform.
-- **Physician vs. AI Assessment Study:** Survey analysis and Power BI visualization of assessment comparisons.
 - **[Auto-Subtitle Generation](https://github.com/IshmitaBasu/Auto-Subtitle-Generation):** Python-based subtitle-generation project.
 
 </details>
 
 ## Professional experience
 
-**Uniper Global Commodities SE** — Working Student, Market Analyst  
-*Apr 2025 – present · Düsseldorf, Germany*
+### Uniper Global Commodities SE — Working Student, Market Analyst
+*April 2025 – present · Düsseldorf, Germany*
 
-- Rebuilt a slow quality-reporting view using **Databricks SQL**, multi-stage CTEs, ranking logic, and conditional formatting.
-- Built Python/Pandas/PySpark transformations for **LNG data, REST API inputs, and curated analytical tables**.
-- Extended Asian LNG models and dashboards to make forecasts, demand data, and contract views more flexible.
-- Supported Power BI development, data validation, and stakeholder-facing reporting.
+- Proposed and independently rebuilt a Norwegian-model quality dashboard in **Databricks SQL**, reducing load time by **60%** and explaining the implementation to colleagues.
+- Developed and enhanced **gas-storage and LNG Power BI dashboards**, using DAX, bookmarks, conditional formatting, drill-down, and drill-through; became a go-to contact for Power BI enhancements.
+- Extended **Asian LNG analytical models** by updating Python calculation logic, base tables, and API-derived inputs connected to Databricks Catalog tables.
+- Built **three additional Power BI dashboards** for model error/ranking reviews and used **Snowflake SQL and Power Query** to process nested JSON and investigate inconsistent values.
+- Automated repetitive dashboard documentation for business users with **AI agent configuration files**, cutting manual effort by **35%**.
 
-**Polestar Solutions and Services** — Senior Data Analyst  
-*Feb 2021 – Mar 2024 · Kolkata, India*
+### Polestar Solutions and Services India Pvt. Ltd. — Senior Data Analyst
+*February 2021 – March 2024 · Kolkata, India*
 
-- Owned client-facing BI delivery across requirements, dashboard development, UAT, and handover.
-- Developed Power BI solutions using DAX, Power Query, row-level security, and Power Apps integration.
-- Built SQL data models and Python/Azure-based preparation workflows for business reporting.
-- Used time-series forecasting and regression to support business recommendations.
+- Owned end-to-end delivery of **200+ Power BI reports**, including requirements, development, client reviews, UAT, and handover; implemented **row-level security and Power Apps integration**.
+- **Led project delivery for 5–8 Power BI developers** on an African pharmaceutical engagement, coordinating assignments, reviewing SQL/report logic, and incorporating stakeholder feedback.
+- **Trained and mentored eight new hires** in Power BI and SQL through hands-on exercises and query reviews.
+- Reworked schemas and fact/dimension models, improving SQL execution time by **20%**; built Python and Azure data-preparation pipelines for reporting.
+- Investigated reporting discrepancies through source-to-report validation; applied **ARIMA and regression** to social-media engagement analysis.
 
-**PwC India** — Trainee  
-*Jun–Jul 2018 · Kolkata, India*
+### PwC India — Trainee
+*June – July 2018 · Kolkata, India*
 
-- Developed a C# registration interface backed by SQL and prepared technical documentation and tests.
+- Developed a **C# restaurant-registration interface** backed by SQL tables and queries, and documented the implementation for testing and handover.
 
-> Work projects are described at a high level to respect client and employer confidentiality. Public repositories here focus on my academic and portfolio work.
+> Employer work is described at a high level to respect client confidentiality. Public repositories primarily showcase academic and personal portfolio projects.
 
-## Education & interests
+## Education & languages
 
-- 🎓 **M.Sc. Data and Knowledge Engineering**, Otto von Guericke University Magdeburg — *2024–present*
-- 🎓 **B.Tech. Information Technology**, Techno India Saltlake — *2016–2020*
-- 🔍 Interested in **analytics engineering, trustworthy ML, MLOps, energy data, and practical AI systems**.
-- 🌍 Languages: **English (C2), Bengali (native), German (A2)**.
+- 🎓 **M.Sc. Data and Knowledge Engineering**, Otto von Guericke University Magdeburg — *April 2024 – February 2027 (expected)*
+- 🎓 **B.Tech. Information Technology**, Techno India Saltlake — *August 2016 – July 2020*
+- 🌍 **Languages:** English (C2/fluent) · Bengali (native) · German (A2)
 
 ## Let's connect
 
-I enjoy discussing data products that make complex information more useful—whether the work involves **BI, analytics engineering, machine learning, or MLOps**.
+I'm interested in practical **analytics, BI, SQL/data modelling, and analytics engineering**—and in making data products understandable to the people who use them.
 
-📩 **[ishmita.basu98@gmail.com](mailto:ishmita.basu98@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/ishmita-basu/)**
+📩 **[Email](mailto:ishmita.basu98@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/ishmita-basu/)** · 🌐 **[Portfolio](https://ishmitabasu.github.io/)**
 
 ---
 
-<div align="center"><sub>Built around work I can explain, evaluate, and improve. Thanks for visiting! ✨</sub></div>
+<div align="center"><sub>Thanks for visiting! ✨</sub></div>
