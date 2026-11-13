@@ -63,9 +63,9 @@ Built a research-oriented fraud-detection workflow using **5 million transaction
 
 ### 🧱 [Retail Sales & Operations Analytics Lakehouse](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
 **Portfolio project · November 2026 · Synthetic data**  
-`dbt Core` `Databricks SQL` `Delta Lake` `SQL` `Python` `Power BI`
+`dbt Core` `Databricks SQL` `Delta Lake` `SQL` `Python` `Power BI` `Docker` `PostgreSQL` `n8n` `Streamlit`
 
-Developed a dbt/Databricks lakehouse with incremental `MERGE` processing, tested fact and dimension marts, and documented lineage. Delivered a **four-page Power BI dashboard** covering sales, products, customers, and fulfilment.
+Built a dbt/Databricks retail lakehouse with incremental Delta `MERGE` processing, tested dimensional marts, and documented lineage. Delivered a **four-page Power BI dashboard** for sales, products, customers, and fulfilment. Added automated dbt failure monitoring with incident grouping, rule-based triage, GitHub/email alerts, and an isolated candidate-validation gate; **305 candidate checks passed** before human-reviewed release.
 
 [Explore project →](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
 
