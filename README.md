@@ -49,6 +49,14 @@ I'm also completing an M.Sc. in Data and Knowledge Engineering, where I work on 
 
 ## Featured projects
 
+### 🌙 [HerRoute — Infrastructure-Aware Night Walking Routes](https://github.com/IshmitaBasu/HerRoute)
+**Portfolio project · November 2026 · Berlin Alexanderplatz pilot**  
+`Python` `GeoPandas` `OSMnx` `Shapely` `NetworkX` `AWS S3` `Glue` `Athena` `dbt` `GitHub Actions` `FastAPI` `Docker` `Render` `Leaflet`
+
+Built an end-to-end geospatial data platform and public route-comparison app that compares the shortest walking route with a preference-aware alternative based on mapped public-light coverage and mapped transit-stop proximity. Created validated spatial features, versioned AWS warehouse snapshots, dbt marts and tests, GitHub OIDC-based candidate refresh and promotion workflows, and a Dockerised FastAPI application with live AWS Location address search. Evaluated **25 fixed Berlin journeys**: **24 completed**, **22 returned a feasible alternative**, with a median **66 m (2.97%)** additional distance and **+6.08 percentage-point** mapped-light coverage change. The app explicitly presents infrastructure signals as proxies, never as a safety guarantee.
+
+[Explore project →](https://github.com/IshmitaBasu/HerRoute) · [Live demo →](https://herroute-af9y.onrender.com)
+
 ### 🛡️ [Financial Fraud Detection — Reproducible MLOps Pipeline](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)
 **Master's thesis · 2026 · In progress**  
 `Python` `scikit-learn` `LightGBM` `MLflow` `Feast` `FastAPI` `SQLite` `Docker`
