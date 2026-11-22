@@ -1,166 +1,225 @@
-<!-- GitHub profile README for https://github.com/IshmitaBasu -->
+<!-- GitHub profile README: place this file in IshmitaBasu/IshmitaBasu -->
 
 <div align="center">
 
-# Hi, I'm Ishmita Basu 👋
+<img width="100%" alt="Ishmita Basu — Data Analyst, Business Intelligence and Analytics Engineering" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:2563EB&height=210&section=header&text=Ishmita%20Basu&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Analytics%20Engineering&descAlignY=57&descSize=17" />
 
-### Data Analyst · Business Intelligence · SQL & Data Modelling
+### 👋 Hello! I turn complicated data into insights people can actually use.
 
-**I turn messy data into reliable reports, useful business insights, and well-tested analytics workflows.**
+📍 **Magdeburg, Germany** &nbsp;·&nbsp; 🎓 **M.Sc. Data and Knowledge Engineering, OVGU** (expected February 2027)
 
-📍 Magdeburg, Germany &nbsp;·&nbsp; 🎓 M.Sc. Data and Knowledge Engineering, Otto von Guericke University Magdeburg (expected February 2027)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://ishmitabasu.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmita-basu/)
+[![Email](https://img.shields.io/badge/SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishmita.basu98@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-16745E?style=flat-square&logo=githubpages&logoColor=white)](https://ishmitabasu.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmita-basu/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishmita.basu98@gmail.com)
+![Focus](https://img.shields.io/badge/FOCUS-Analytics%20%26%20BI-1E293B?style=flat-square)
+![Interests](https://img.shields.io/badge/EXPLORING-dbt%20%7C%20Data%20Engineering%20%7C%20MLOps-0F766E?style=flat-square)
+![Opportunities](https://img.shields.io/badge/OPEN_TO-Full--time%20Data%20Roles-2563EB?style=flat-square)
 
 </div>
 
 ---
 
-## About me
+## ✨ The person behind the dashboards
 
-I'm a data professional with **three years of full-time BI experience at Polestar Solutions** and **nearly two years of working-student experience in market analytics at Uniper Global Commodities**. I enjoy owning a problem from the first stakeholder conversation through SQL modelling, dashboard development, validation, and handover.
+I enjoy solving the whole data problem, not just building the final chart: **understanding the question, untangling the data, modelling it carefully, and making the result useful**.
 
-At **Uniper**, I work on LNG and gas-storage analytics, Power BI reporting, and Databricks SQL solutions. Previously, at **Polestar**, I delivered client-facing BI solutions, coordinated a project team of **5–8 developers**, and mentored **eight new hires** in Power BI and SQL.
+My background combines **three years of full-time BI work at Polestar Solutions** with hands-on **energy market analytics at Uniper Global Commodities**. Alongside work, I am completing my master's degree and exploring modern analytics engineering and applied machine learning.
 
-I'm also completing an M.Sc. in Data and Knowledge Engineering, where I work on **dbt/data engineering projects and research-oriented machine learning**, including an MLOps thesis on financial fraud detection. I'm interested in **full-time Data Analyst and Business Intelligence opportunities** where I can combine technical work with business understanding.
+- ⚡ **At Uniper:** LNG and gas-storage analytics, interactive Power BI reporting, Databricks SQL, Python-based analytical models and data-quality investigations.
+- 📊 **At Polestar:** Client-facing reporting from requirements to handover, SQL optimization, team coordination and mentoring.
+- 🧪 **Outside work:** dbt lakehouses, energy analytics, experimental fraud-detection MLOps, multi-agent planning and speech recognition.
 
-### A few results I'm proud of
+> **My working principle:** Build it accurately. Explain it clearly. Make it maintainable.
 
-- **60% faster** — proposed and independently rebuilt a quality dashboard using Databricks SQL, multi-stage CTEs, ranking logic, and conditional formatting at Uniper.
-- **200+ Power BI reports** — owned delivery from requirements through UAT and handover for a major client at Polestar.
-- **20% faster SQL queries** — improved reporting performance by revising schemas and fact/dimension models at Polestar.
-- **35% less manual documentation effort** — created AI agent configuration files to structure Power BI dashboard information for SharePoint at Uniper.
+### 📌 Impact, at a glance
 
-> My approach: understand the business question, validate the data, build something people can use, and make it maintainable.
+<div align="center">
 
-## What I work with
+| ⚡ **60% faster** | 📊 **200+ reports** | 🚀 **20% faster** | 🤖 **35% less effort** |
+|:---:|:---:|:---:|:---:|
+| Databricks dashboard load time | Power BI reports delivered | SQL query execution | Manual documentation work |
 
-| Area | Tools & methods |
-| --- | --- |
-| **Analytics & BI** | Power BI, DAX, Power Query, KPI reporting, interactive dashboards, stakeholder communication |
-| **SQL & data processing** | SQL, T-SQL, Python, Pandas, NumPy, PySpark, REST APIs, SQL CTEs |
-| **Warehousing & analytics engineering** | Databricks SQL, Snowflake, BigQuery, dbt Core, Delta Lake, dimensional modelling, data tests, lineage |
-| **Data platforms** | Microsoft SQL Server, Azure Data Factory, Git, GitHub, Docker |
-| **Statistics & forecasting** | Exploratory analysis, ARIMA, regression, data quality checks |
-| **ML & MLOps (academic projects)** | scikit-learn, LightGBM, MLflow, Feast, FastAPI, feature engineering, evaluation |
-| **AI research projects** | Whisper, LoRA, Word Error Rate, multi-agent SLMs, Tree-of-Thought, Ant Colony Optimization |
+</div>
 
-## Featured projects
+*Selected results from my professional experience at Uniper and Polestar.*
 
-### 🌙 [HerRoute — Infrastructure-Aware Night Walking Routes](https://github.com/IshmitaBasu/HerRoute)
-**Portfolio project · November 2026 · Berlin Alexanderplatz pilot**  
-`Python` `GeoPandas` `OSMnx` `Shapely` `NetworkX` `AWS S3` `Glue` `Athena` `dbt` `GitHub Actions` `FastAPI` `Docker` `Render` `Leaflet`
+---
 
-Built an end-to-end geospatial data platform and public route-comparison app that compares the shortest walking route with a preference-aware alternative based on mapped public-light coverage and mapped transit-stop proximity. Created validated spatial features, versioned AWS warehouse snapshots, dbt marts and tests, GitHub OIDC-based candidate refresh and promotion workflows, and a Dockerised FastAPI application with live AWS Location address search. Evaluated **25 fixed Berlin journeys**: **24 completed**, **22 returned a feasible alternative**, with a median **66 m (2.97%)** additional distance and **+6.08 percentage-point** mapped-light coverage change. The app explicitly presents infrastructure signals as proxies, never as a safety guarantee.
+## 🧰 The toolkit
 
-[Explore project →](https://github.com/IshmitaBasu/HerRoute) · [Live demo →](https://herroute-af9y.onrender.com)
+**Analytics & visualization**
 
-### 🛡️ [Financial Fraud Detection — Reproducible MLOps Pipeline](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)
-**Master's thesis · 2026 · In progress**  
-`Python` `scikit-learn` `LightGBM` `MLflow` `Feast` `FastAPI` `SQLite` `Docker`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-Built a research-oriented fraud-detection workflow using **5 million transactions**, leakage-aware preprocessing, batch ingestion, versioned Feast features, and tracked model experiments in MLflow.
+`DAX` · `Power Query` · `Pandas` · `NumPy` · `Stakeholder reporting` · `Data storytelling`
 
-- Engineered sender-location history features that improved **validation Average Precision by 5.69% relative to the control** in a controlled comparison.
-- Verified **research-only** API serving and batch-monitoring checks.
-- Treat this as an experimental MLOps system, **not a production-ready fraud detector**; validation gains should not be confused with held-out test performance.
+**Modern data stack & engineering**
 
-[Explore project →](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ⚖️ [FairWork: European Gender Equality & Political Context Explorer](https://github.com/IshmitaBasu/FairWork)
+`Data modelling` · `ETL/ELT` · `Delta Lake` · `PySpark` · `Data quality` · `Data tests` · `Git`
 
-**Portfolio project · November 2026 · Local research dashboard**  
-`Python` `DuckDB` `Streamlit` `Plotly` `Pandas` `Parquet` `GitHub Actions`
+**ML, MLOps & research**
 
-Built a reproducible exploratory data product connecting Eurostat gender-outcome trends with OECD policy context, documented ParlGov cabinet periods, and reviewed CHES party-position data across **4 European countries**. Designed grain-safe DuckDB marts covering **52 country-year outcome rows**, **34 cabinet periods**, **54 party-wave positions**, and **83 cabinet-party memberships**. Added interactive quality controls, source and limitations views, and GitHub Actions validation with **10 automated tests**—while preserving a descriptive, non-causal interpretation boundary.
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-[Explore project →](https://github.com/IshmitaBasu/FairWork)
+`LightGBM` · `Feast` · `Whisper` · `LoRA` · `Multi-agent systems` · `Model evaluation`
 
-### 🧱 [Retail Sales & Operations Analytics Lakehouse](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
-**Portfolio project · November 2026 · Synthetic data**  
-`dbt Core` `Databricks SQL` `Delta Lake` `SQL` `Python` `Power BI` `Docker` `PostgreSQL` `n8n` `Streamlit`
+---
 
-Built a dbt/Databricks retail lakehouse with incremental Delta `MERGE` processing, tested dimensional marts, and documented lineage. Delivered a **four-page Power BI dashboard** for sales, products, customers, and fulfilment. Added automated dbt failure monitoring with incident grouping, rule-based triage, GitHub/email alerts, and an isolated candidate-validation gate; **305 candidate checks passed** before human-reviewed release.
+## 🚀 Projects worth opening
 
-[Explore project →](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ⚡ [Energy Subscription Analytics — dbt + BigQuery](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
-**Portfolio project · November 2026 · Synthetic data**  
-`dbt Core` `BigQuery` `SQL` `MetricFlow` `Docker` `Metabase`
+### 🛡️ Fraud Detection MLOps
 
-Defined dimensional grains and revenue/contract metrics for energy-subscription reporting. Added **123 data tests and four unit tests**, documented MetricFlow metrics, and built a Metabase dashboard on curated marts.
+**Master's thesis · In progress**
 
-[Explore project →](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
+An experimental pipeline built around **5 million transactions**, reproducible model runs, versioned features and research-only serving.
 
-### 🐝 [Swarm SLM Agents — Calendar Planning](https://github.com/IshmitaBasu/Swarm-Planner-Agent)
-**Team project · November 2025 – April 2026**  
-`Multi-agent SLMs` `Tree-of-Thought` `Ant Colony Optimization` `Evaluation`
+**Result:** Sender-location history features improved *validation* Average Precision by **5.69% relative to a control** in a controlled comparison.
 
-Co-developed a decentralised scheduling approach combining a five-stage Tree-of-Thought process with ACO-inspired branch selection. Across **400 NaturalPlanner tasks**, the exact-match solve rate increased from **24.75% to 40.0%**; the Tree-of-Thought variant without ACO achieved **39.5%**.
+`Python` `LightGBM` `MLflow` `Feast` `FastAPI`
 
-[Explore project →](https://github.com/IshmitaBasu/Swarm-Planner-Agent)
+[**Explore repository →**](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)
 
-### 🎙️ [Multilingual Speech Recognition — Whisper Fine-Tuning](https://github.com/IshmitaBasu/whisper-fine-tune-low-resource-language)
-**Academic project · March – May 2025**  
-`Python` `Whisper` `LoRA` `WER Evaluation`
+</td>
+<td width="50%" valign="top">
 
-Fine-tuned Whisper for **Bengali and Telugu** using LoRA, compared Word Error Rate before and after adaptation, and studied performance under background noise while exploring speaker diarisation.
+### 🧱 Retail Analytics Lakehouse
 
-[Explore project →](https://github.com/IshmitaBasu/whisper-fine-tune-low-resource-language)
+**Portfolio project · Synthetic data**
+
+An analytics-ready retail platform with **incremental processing, tested dbt marts, documented lineage** and a four-page Power BI dashboard.
+
+**Focus:** Sales, product, customer and fulfilment reporting.
+
+`dbt` `Databricks` `Delta Lake` `Power BI`
+
+[**Explore repository →**](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Energy Subscription Analytics
+
+**Portfolio project · Synthetic data**
+
+Modelled subscription and revenue metrics in BigQuery, with curated marts, MetricFlow definitions and a Metabase dashboard.
+
+**Result:** **123 data tests + 4 unit tests**.
+
+`dbt` `BigQuery` `MetricFlow` `Metabase`
+
+[**Explore repository →**](https://github.com/IshmitaBasu/Energy-Subscription-Analytics)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐝 Swarm SLM Agents
+
+**Academic team project**
+
+Explored decentralized calendar planning with **Tree-of-Thought reasoning** and Ant Colony Optimization-inspired branch selection.
+
+**Result:** Exact-match solve rate improved from **24.75% to 40.0%** across 400 NaturalPlanner tasks.
+
+`Multi-agent SLMs` `Tree-of-Thought` `ACO`
+
+[**Explore repository →**](https://github.com/IshmitaBasu/Swarm-Planner-Agent)
+
+</td>
+</tr>
+</table>
+
+### 🎙️ Multilingual speech recognition
+
+Fine-tuned **Whisper with LoRA** for **Bengali and Telugu** and evaluated word error rate before and after adaptation, including noisy conditions.
+
+`Whisper` `LoRA` `Python` `WER` &nbsp;·&nbsp; [**See the project →**](https://github.com/IshmitaBasu/whisper-fine-tune-low-resource-language)
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><strong>📂 More projects and experiments</strong></summary>
 
 <br>
 
-- **Bundestag-MINE — Personalized Speech Recommendations (2024–2025):** Built React/TypeScript interfaces, integrated recommendation outputs, wrote tests, and fixed user-facing defects in a parliamentary-speech research prototype.
-- **Physician vs. AI Assessment Study (2024):** Analysed structured questionnaire responses using descriptive statistics and Power BI to visualise assessment differences.
+- **Bundestag-MINE:** React/TypeScript work on a parliamentary-speech recommendation research prototype.
+- **Physician vs. AI Assessment Study:** Questionnaire analysis and Power BI visualizations.
 - **[Power BI Data Visualization](https://github.com/IshmitaBasu/PowerBI-Project):** Sample-data reporting and visual analytics.
 - **[Auto-Subtitle Generation](https://github.com/IshmitaBasu/Auto-Subtitle-Generation):** Python-based subtitle-generation project.
 
 </details>
 
-## Professional experience
-
-### Uniper Global Commodities SE — Working Student, Market Analyst
-*April 2025 – present · Düsseldorf, Germany*
-
-- Proposed and independently rebuilt a Norwegian-model quality dashboard in **Databricks SQL**, reducing load time by **60%** and explaining the implementation to colleagues.
-- Developed and enhanced **gas-storage and LNG Power BI dashboards**, using DAX, bookmarks, conditional formatting, drill-down, and drill-through; became a go-to contact for Power BI enhancements.
-- Extended **Asian LNG analytical models** by updating Python calculation logic, base tables, and API-derived inputs connected to Databricks Catalog tables.
-- Built **three additional Power BI dashboards** for model error/ranking reviews and used **Snowflake SQL and Power Query** to process nested JSON and investigate inconsistent values.
-- Automated repetitive dashboard documentation for business users with **AI agent configuration files**, cutting manual effort by **35%**.
-
-### Polestar Solutions and Services India Pvt. Ltd. — Senior Data Analyst
-*February 2021 – March 2024 · Kolkata, India*
-
-- Owned end-to-end delivery of **200+ Power BI reports**, including requirements, development, client reviews, UAT, and handover; implemented **row-level security and Power Apps integration**.
-- **Led project delivery for 5–8 Power BI developers** on an African pharmaceutical engagement, coordinating assignments, reviewing SQL/report logic, and incorporating stakeholder feedback.
-- **Trained and mentored eight new hires** in Power BI and SQL through hands-on exercises and query reviews.
-- Reworked schemas and fact/dimension models, improving SQL execution time by **20%**; built Python and Azure data-preparation pipelines for reporting.
-- Investigated reporting discrepancies through source-to-report validation; applied **ARIMA and regression** to social-media engagement analysis.
-
-### PwC India — Trainee
-*June – July 2018 · Kolkata, India*
-
-- Developed a **C# restaurant-registration interface** backed by SQL tables and queries, and documented the implementation for testing and handover.
-
-> Employer work is described at a high level to respect client confidentiality. Public repositories primarily showcase academic and personal portfolio projects.
-
-## Education & languages
-
-- 🎓 **M.Sc. Data and Knowledge Engineering**, Otto von Guericke University Magdeburg — *April 2024 – February 2027 (expected)*
-- 🎓 **B.Tech. Information Technology**, Techno India Saltlake — *August 2016 – July 2020*
-- 🌍 **Languages:** English (C2/fluent) · Bengali (native) · German (A2)
-
-## Let's connect
-
-I'm interested in practical **analytics, BI, SQL/data modelling, and analytics engineering**—and in making data products understandable to the people who use them.
-
-📩 **[Email](mailto:ishmita.basu98@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/ishmita-basu/)** · 🌐 **[Portfolio](https://ishmitabasu.github.io/)**
+> ℹ️ Academic and portfolio projects are labelled as such. Synthetic-data demonstrations and experimental research are not represented as production deployments.
 
 ---
 
-<div align="center"><sub>Thanks for visiting! ✨</sub></div>
+## 💼 Where I've put these skills to work
+
+### ⚡ Uniper Global Commodities SE
+**Working Student, Market Analyst** &nbsp; | &nbsp; *April 2025 – Present*
+
+- Rebuilt a Norwegian-model quality dashboard in **Databricks SQL**, reducing loading time by **60%**.
+- Built and enhanced **LNG and gas-storage Power BI dashboards** with DAX, drill-through and dynamic analysis.
+- Updated **Python-based LNG calculations**, analytical tables and API-derived inputs; investigated data inconsistencies with Snowflake SQL and Power Query.
+- Created **AI-assisted dashboard documentation configurations**, reducing manual formatting work by **35%**.
+
+### 📊 Polestar Solutions and Services India Pvt. Ltd.
+**Senior Data Analyst** &nbsp; | &nbsp; *February 2021 – March 2024*
+
+- Delivered **200+ Power BI reports**, taking solutions from stakeholder requirements through UAT and handover.
+- Coordinated delivery for **5–8 developers** and trained **8 new hires** in SQL and Power BI.
+- Improved SQL query execution time by **20%** through schema and data-model improvements.
+- Developed Python/Azure data-preparation pipelines and worked on statistical forecasting analyses.
+
+<details>
+<summary><strong>Earlier experience</strong></summary>
+
+<br>
+
+**PwC India · Trainee (June – July 2018)**: Built and documented a C# restaurant-registration interface backed by SQL.
+
+</details>
+
+*Employer work is summarized at a high level to respect client confidentiality.*
+
+---
+
+## 🎓 Learning never stops
+
+- 🎓 **M.Sc. Data and Knowledge Engineering**, Otto von Guericke University Magdeburg *(expected February 2027)*
+- 🎓 **B.Tech. Information Technology**, Techno India Saltlake *(2020)*
+- 🌍 **Languages:** English (fluent/C2) · Bengali (native) · German (A2)
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something useful from data.
+
+I'm interested in **Data Analyst, BI and Analytics Engineering opportunities**, and always happy to connect over thoughtful data problems.
+
+[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://ishmitabasu.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmita-basu/)
+[![Email Me](https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishmita.basu98@gmail.com)
+
+<sub>Thanks for visiting ✨ · Curious minds make better dashboards.</sub>
+
+<img width="100%" alt="Decorative teal and blue wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:2563EB&height=90&section=footer" />
+
+</div>
