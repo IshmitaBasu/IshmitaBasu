@@ -69,6 +69,15 @@ Built a research-oriented fraud-detection workflow using **5 million transaction
 
 [Explore project →](https://github.com/IshmitaBasu/MLOps-Pipeline-for-Fraud-Detection-in-Financial-Data)
 
+### ⚖️ [FairWork: European Gender Equality & Political Context Explorer](https://github.com/IshmitaBasu/FairWork)
+
+**Portfolio project · November 2026 · Local research dashboard**  
+`Python` `DuckDB` `Streamlit` `Plotly` `Pandas` `Parquet` `GitHub Actions`
+
+Built a reproducible exploratory data product connecting Eurostat gender-outcome trends with OECD policy context, documented ParlGov cabinet periods, and reviewed CHES party-position data across **4 European countries**. Designed grain-safe DuckDB marts covering **52 country-year outcome rows**, **34 cabinet periods**, **54 party-wave positions**, and **83 cabinet-party memberships**. Added interactive quality controls, source and limitations views, and GitHub Actions validation with **10 automated tests**—while preserving a descriptive, non-causal interpretation boundary.
+
+[Explore project →](https://github.com/IshmitaBasu/FairWork)
+
 ### 🧱 [Retail Sales & Operations Analytics Lakehouse](https://github.com/IshmitaBasu/retail-sales-operations-lakehouse)
 **Portfolio project · November 2026 · Synthetic data**  
 `dbt Core` `Databricks SQL` `Delta Lake` `SQL` `Python` `Power BI` `Docker` `PostgreSQL` `n8n` `Streamlit`
