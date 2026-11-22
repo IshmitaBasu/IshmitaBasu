@@ -28,7 +28,7 @@ My background combines **three years of full-time BI work at Polestar Solutions*
 
 - ⚡ **At Uniper:** LNG and gas-storage analytics, interactive Power BI reporting, Databricks SQL, Python-based analytical models and data-quality investigations.
 - 📊 **At Polestar:** Client-facing reporting from requirements to handover, SQL optimization, team coordination and mentoring.
-- 🧪 **Outside work:** dbt lakehouses, energy analytics, experimental fraud-detection MLOps, multi-agent planning and speech recognition.
+- 🧪 **Outside work:** geospatial route analytics, European social-data exploration, dbt lakehouses, energy analytics, experimental fraud-detection MLOps, multi-agent planning and speech recognition.
 
 > **My working principle:** Build it accurately. Explain it clearly. Make it maintainable.
 
@@ -81,6 +81,46 @@ My background combines **three years of full-time BI work at Polestar Solutions*
 ## 🚀 Projects worth opening
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌙 HerRoute · Infrastructure-Aware Walking Routes
+
+![Geospatial](https://img.shields.io/badge/GEOSPATIAL_ANALYTICS-0F766E?style=flat-square&logo=openstreetmap&logoColor=white)
+![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2563EB?style=flat-square&logo=render&logoColor=white)
+
+**Geospatial analytics · November 2026**
+
+Built an end-to-end platform that compares the **shortest route with infrastructure-aware walking alternatives**. Combined spatial data processing, dbt-tested AWS models, and a FastAPI web application.
+
+**Pilot result:** Across **24 completed journeys**, found **22 feasible alternatives**; median mapped-light coverage increased by **6.08 percentage points** for an additional **66 m (2.97%)** of walking distance.
+
+`Python` `GeoPandas` `OSMnx` `NetworkX` `AWS` `dbt` `FastAPI`
+
+[**GitHub →**](https://github.com/IshmitaBasu/HerRoute) · [**Live demo →**](https://herroute-af9y.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ FairWork · European Gender Equality Explorer
+
+![Social Data](https://img.shields.io/badge/SOCIAL_DATA_ANALYTICS-7C3AED?style=flat-square)
+![Interactive App](https://img.shields.io/badge/INTERACTIVE_EXPLORER-0F766E?style=flat-square&logo=streamlit&logoColor=white)
+
+**European policy & gender-outcome analytics · November 2026**
+
+How do **gender-equality outcomes evolve alongside changing political contexts**? Built an interactive, reproducible explorer connecting **Eurostat gender-outcome trends** with **OECD policy context**, dated **ParlGov cabinets** and reviewed **CHES party positions** across **4 European countries**.
+
+**Under the hood:** Grain-safe DuckDB marts covering **52 country-year outcome rows**, **34 cabinet periods**, **54 party-wave positions** and **83 cabinet-party memberships**, plus interactive quality controls, source/limitations views and **10 automated tests** in GitHub Actions.
+
+*Exploratory and descriptive only: political context is not presented as a causal explanation for gender outcomes.*
+
+`Python` `DuckDB` `Streamlit` `Plotly` `Pandas` `Parquet` `GitHub Actions`
+
+[**Explore repository →**](https://github.com/IshmitaBasu/FairWork)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
